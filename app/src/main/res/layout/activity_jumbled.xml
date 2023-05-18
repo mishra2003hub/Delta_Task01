@@ -32,7 +32,6 @@
         android:clickable="false"
         android:focusable="false"
         android:textSize="32sp"
-        android:textStyle="bold|italic"
         android:textColor="#032077"
         android:gravity="center"
         android:layout_gravity="center"
